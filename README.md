@@ -28,12 +28,12 @@ O Juno sobe um **servidor local em `http://127.0.0.1:8787`** que fala o protocol
 
 **Windows (CMD ou PowerShell):**
 ```cmd
-curl -fsSL https://raw.githubusercontent.com/SEU-USUARIO/juno/main/install.ps1 -o juno-install.ps1 && powershell -NoProfile -ExecutionPolicy Bypass -File juno-install.ps1 && del juno-install.ps1
+curl -fsSL https://raw.githubusercontent.com/anthonymigueldias09-cmyk/juno/main/install.ps1 -o juno-install.ps1 && powershell -NoProfile -ExecutionPolicy Bypass -File juno-install.ps1 && del juno-install.ps1
 ```
 
 **Linux / macOS:**
 ```bash
-curl -fsSL https://raw.githubusercontent.com/SEU-USUARIO/juno/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/anthonymigueldias09-cmyk/juno/main/install.sh | bash
 ```
 
 (Instalação local, sem GitHub: rode `install.bat` no Windows ou `bash install.sh` no Linux, dentro da pasta.)
