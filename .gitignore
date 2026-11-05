@@ -1,0 +1,7 @@
+node_modules/
+*.log
+.DS_Store
+Thumbs.db
+# A configuracao (com as API keys) fica em ~/.juno - FORA do repositorio
+.juno/
+config.json
